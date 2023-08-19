@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gold-website/static/css/main.20acbc28.css",
+    "main.js": "/Gold-website/static/js/main.66d9850e.js",
+    "static/media/banner.png": "/Gold-website/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Gold-website/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Gold-website/index.html",
+    "main.20acbc28.css.map": "/Gold-website/static/css/main.20acbc28.css.map",
+    "main.66d9850e.js.map": "/Gold-website/static/js/main.66d9850e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.66d9850e.js"
+  ]
+}
